@@ -26,7 +26,7 @@ module.exports = React.createClass({
         >
           <Container
             style={{
-              maxWidth: 960,
+              maxWidth: 1500,
               paddingTop: 0,
               padding: `${rhythm(1)} ${rhythm(3/4)}`,
             }}
@@ -38,13 +38,13 @@ module.exports = React.createClass({
                 textDecoration: 'none',
               }}
             >
-              Your Brand!
+              NSE First Steps - Bayode Aderinola
             </Link>
           </Container>
         </Headroom>
         <Container
           style={{
-            maxWidth: 960,
+            maxWidth: 1500,
             padding: `${rhythm(1)} ${rhythm(3/4)}`,
             paddingTop: 0,
           }}

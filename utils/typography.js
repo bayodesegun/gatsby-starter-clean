@@ -18,7 +18,7 @@ const options = {
   headerFontFamily: ['Roboto', 'sans-serif'],
   bodyFontFamily: ['Roboto', 'sans-serif'],
   baseFontSize: '18px',
-  baseLineHeight: 1.65,
+  baseLineHeight: 1.45,
   scale: 2.25,
   plugins: [
     new CodePlugin(),

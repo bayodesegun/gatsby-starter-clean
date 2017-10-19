@@ -38,7 +38,7 @@ module.exports = React.createClass({
                 textDecoration: 'none',
               }}
             >
-              NSE First Steps - Bayode Aderinola
+              NSE First Steps - Bayode Aderinola (bayodesegun@bayodesegun.com)
             </Link>
           </Container>
         </Headroom>

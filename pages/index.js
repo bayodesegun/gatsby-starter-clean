@@ -115,10 +115,10 @@ export default class Index extends React.Component {
                 <p>A less-technical internet user most likely has no knowledge of basic networking, so DNS just sounds like DNA 
                 (or worse, assuming limited medical knowledge). I believe this is the fist hurdle to cross.</p>
 
-                <p>I suppose the only 'fire exit' from this hurdle is to employ an experts to do the 'dirty' job.</p>
+                <p>I suppose the only 'fire exit' from this hurdle is to employ an expert to do the 'dirty' job.</p>
               </li>
               <li><em>Practicals: Now I understand DNS, how do I actually configure it?</em>
-                <p>Having put the basic theretical knowledge hurdle behind, it's time to roll up the sleeves and actually learn to
+                <p>Having put the basic theoretical knowledge hurdle behind, it's time to roll up the sleeves and actually learn to
                 configure it. This itself is another 'diploma'. Here the user will need to become comfortable with technical jargon 
                 like <em>zone file</em>, <em>SOA</em> and <em>DNS record types like A and CNAME</em>.</p>
 
